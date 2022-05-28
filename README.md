@@ -9,4 +9,5 @@ App where you can store employee working hours. Updates view with entered hour a
 * create database
 * create .env file. Copy .env.example data to .env file or use command: `cp .env.example .env`, replace with your mysql data to match your database.
 * run command `php artisan migrate` to migrate tables to your database
+* add user/users to database
 * run command `php artisan serve` to view in web.
